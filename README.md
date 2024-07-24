@@ -3,9 +3,10 @@ Olá! Me chamo Mariana, tenho 20 anos e sou técnica em Informática para Intern
 
 Trabalho com desenvolvimento há dois anos, mas atualmente meu github é, em sua maioria, composto por projetos realizados durante os estudos, seja na faculdade ou em cursos. No momento, tô começando a estudar para criar projetos que melhorem meu portifólio.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariana-raquel&title_color=B0E0E6&text_color=FFF&icon_color=B0E0E6&border_color=B0E0E6&bg_color=000&hide_border=false&border_radius=25&show_icons=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariana-raquel&bg_color=000&border_color=B0E0E6&title_color=B0E0E6&text_color=FFF&&&layout=donut&border_radius=25"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=mariana-raquel&theme=bear&background=000&border=B0E0E6&dates=FFF&border_radius=25&ring=B0E0E6&fire=B0E0E6&sideNums=B0E0E6&currStreakNum=B0E0E6&currStreakLabel=B0E0E6&sideLabels=B0E0E6"/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariana-raquel&title_color=B0E0E6&text_color=FFF&icon_color=B0E0E6&border_color=B0E0E6&bg_color=000&hide_border=false&border_radius=25&show_icons=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariana-raquel&bg_color=000&border_color=B0E0E6&title_color=B0E0E6&text_color=FFF&&&layout=donut&border_radius=25"/>  
+</div>
 
 ## Repositórios que contribui:
 
