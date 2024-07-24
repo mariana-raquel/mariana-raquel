@@ -32,7 +32,5 @@ Trabalho com desenvolvimento há dois anos, mas atualmente meu github é, em sua
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Conecte-se comigo
-
-<a href="https://github.com/mariana-raquel" target="_blank"> ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) </a>
 <a href="https://www.linkedin.com/in/mariana-morais-0958a321b/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
