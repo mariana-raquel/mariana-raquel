@@ -1,5 +1,5 @@
 # Mariana Morais
-Olá! Me chamo Mariana, tenho 20 anos e sou técnica em Informática para Internet. Atualmente sou estudante do Bacharelado de Tecnologia da Informação. 
+Olá! Me chamo Mariana, e sou técnica em Informática para Internet. Atualmente sou estudante do Bacharelado de Tecnologia da Informação. 
 
 Trabalho com desenvolvimento há dois anos, mas atualmente meu github é, em sua maioria, composto por projetos realizados durante os estudos, seja na faculdade ou em cursos. No momento, tô começando a estudar para criar projetos que melhorem meu portifólio.
 
